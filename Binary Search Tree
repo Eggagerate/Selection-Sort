@@ -2,7 +2,7 @@
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 1. Adım: Root'u 7 alalım.
-2. Adım: Root'un soluna 6, sağına ise 9 koyalım.
+2. Adım: Root'un soluna 5, sağına ise 9 koyalım.
 
               7
          5       9
